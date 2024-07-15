@@ -1,6 +1,6 @@
 # helloworld
 
-This is repo to teach basic git commands and Github functionality 
+This is a repo to teach basic git commands and basic Github functionalities 
 
 To install:
 ```
