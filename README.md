@@ -7,7 +7,7 @@ To install:
 git clone https://github.com/bearecinos/helloworld.git
 ```
 
-How to contribute to a Github repository? See link to [pdf]()
+How to contribute to a Github repository? See link to [pdf](https://github.com/bearecinos/helloworld/blob/main/docs/ContributingtoaGithubrepository.pdf)
 
 How to start jupyter lab from a remote server? See the following [guide](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbenjlindsay.com%2Fposts%2Frunning-jupyter-lab-remotely%2F%23running-on-a-login-node&data=05%7C02%7C%7C8a99a3456db340482af808dc83ddba1f%7C2e9f06b016694589878910a06934dc61%7C0%7C0%7C638530235526873491%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=L491WEG6QKDRWMdxhD83UxhFHV17OA%2BUNGduH476wII%3D&reserved=0)
 
